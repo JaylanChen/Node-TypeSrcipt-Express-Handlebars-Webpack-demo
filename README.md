@@ -1,2 +1,2 @@
-# ts-node-express-hbs-webpack-demo
-typescript node express hbs(handlebars) webpack demo for server side renderer 
+# Node-TypeSrcipt-Express-Handlebars-Webpack-demo
+node typescript express hbs(handlebars) webpack demo for server side renderer 
